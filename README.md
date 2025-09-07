@@ -1,6 +1,6 @@
 # 🎮 LESTPLAY - A Collection of Simple JavaScript Games
 
-![LESTPLAY Banner]([https://via.placeholder.com/1200x600.png?text=LESTPLAY+Game+Portal](https://www.shutterstock.com/image-vector/vector-realistic-isolated-neon-sign-260nw-1277509180.jpg))
+![LESTPLAY Banner](https://img.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg?t=st=1757276917~exp=1757280517~hmac=b5aaac93322d082a1afb12d422e32ce5f0d9167915abe45e47e2c3a0ac1bf551&w=1060)
 
 Welcome to **LESTPLAY**, a curated collection of fun and classic games built purely with HTML, CSS, and vanilla JavaScript. This project serves as a fun way to explore web development fundamentals while creating interactive and engaging experiences.
 
