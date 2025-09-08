@@ -49,7 +49,7 @@ All you need is a modern web browser like Chrome, Firefox, or Edge.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/letsplay.git
+    git clone https://github.com/yasser-codes/LetsPlay.git
     ```
 
 2.  **Navigate to the project directory:**
